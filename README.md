@@ -8,7 +8,7 @@ Professional portfolio of **Aslam Sardar**, HR Executive and Payroll Processor.
 
 ## Focus
 
-- Payroll processing for 700+ employees
+- Payroll processing for 2000+ employees
 - Salary calculation, PF/ESI deductions and TDS
 - Payslips, bank salary sheets and payroll MIS
 - Attendance, onboarding and employee documentation
